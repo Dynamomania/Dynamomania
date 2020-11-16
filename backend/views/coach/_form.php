@@ -59,7 +59,7 @@ use common\models\Country;
             'pluginOptions' => [
                 'language' => 'ru',
                 'autoclose' => true,
-                'format' => 'dd.mm.yyyy'
+                'format' => 'yyyy.mm.dd'
             ]
         ]);
     ?>
